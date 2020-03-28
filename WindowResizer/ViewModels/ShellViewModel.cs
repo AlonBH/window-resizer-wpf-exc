@@ -1,5 +1,5 @@
 ﻿using Caliburn.Micro;
-using WindowResizer.EventModels;
+using WindowResizer.Events;
 
 namespace WindowResizer.ViewModels
 {

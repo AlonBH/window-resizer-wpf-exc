@@ -1,4 +1,4 @@
-﻿namespace WindowResizer.EventModels
+﻿namespace WindowResizer.Events
 {
     public class WindowSizeChangeEvent
     {

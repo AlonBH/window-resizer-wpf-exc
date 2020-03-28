@@ -71,7 +71,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="EventModels\WindowSizeChangeEvent.cs" />
+    <Compile Include="Events\WindowSizeChangeEvent.cs" />
     <Compile Include="ViewModels\ChildWindowViewModel.cs" />
     <Compile Include="ViewModels\IShell.cs" />
     <Compile Include="ViewModels\ShellViewModel.cs" />
